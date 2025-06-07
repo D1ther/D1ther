@@ -6,5 +6,5 @@
 
 ### Stack 📚
 
-![Python](https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=black&logoSize=auto&label=python&labelColor=white&color=white&cacheSeconds=3600)
+![Python](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black&logoSize=max&labelColor=white&color=white&cacheSeconds=3600)
 
