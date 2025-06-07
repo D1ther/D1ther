@@ -6,4 +6,5 @@
 
 ### Stack 📚
 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg)
+![Python](https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=black&logoSize=auto&label=python&labelColor=white&color=white&cacheSeconds=3600)
+
