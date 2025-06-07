@@ -6,4 +6,4 @@
 
 ### Stack 📚
 
-![Python](https://simpleicons.org/?modal=icon&q=python)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg)
