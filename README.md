@@ -6,6 +6,6 @@
 
 ### Stack 📚
 
-<li>
-    <ul background-color="blue">Python</ul>
-</li>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <h3>Python</h3>
+</div>
