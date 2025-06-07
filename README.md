@@ -6,4 +6,4 @@
 
 ### Stack 📚
 
-![Python]()
+![Python](https://simpleicons.org/?modal=icon&q=python)
