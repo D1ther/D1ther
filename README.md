@@ -28,9 +28,10 @@
 ![Github](https://img.shields.io/badge/github-bage?style=for-the-badge&logo=github&logoColor=black&logoSize=max&color=white&cacheSeconds=3600
 )
 
-<h3>
-    My statistics 📈
-</h3>
+<br><br><br><br><br>
+
+### My statistics 📈
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=D1ther&show_icons=true&theme=dark" alt="My stats 📊" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D1ther&theme=dark" alt="My streak" />
