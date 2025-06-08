@@ -4,7 +4,7 @@
     I'm a Python backend developer <img src="images\python_image.png" height="20" width="20">
 </h3>
 
-<br><br>
+<br>
 
 ### Stack 📚
 
@@ -30,7 +30,7 @@
 ![Github](https://img.shields.io/badge/github-bage?style=for-the-badge&logo=github&logoColor=black&logoSize=max&color=white&cacheSeconds=3600
 )
 
-<br><br>
+<br>
 
 <h3 align="center">My statistics 📈</h3>
 
