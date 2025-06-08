@@ -7,4 +7,6 @@
 ### Stack 📚
 
 ![Python](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black&logoSize=max&labelColor=white&color=white&cacheSeconds=3600)
+![FastAPI](https://img.shields.io/badge/FastAPI-bage?style=for-the-badge&logo=%23009688&logoColor=black&logoSize=auto&labelColor=white&color=white&cacheSeconds=3600
+)
 
