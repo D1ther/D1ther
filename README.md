@@ -28,4 +28,10 @@
 ![Github](https://img.shields.io/badge/github-bage?style=for-the-badge&logo=github&logoColor=black&logoSize=max&color=white&cacheSeconds=3600
 )
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D1ther&show_icons=true&theme=radical" alt="D1ther's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D1ther&theme=radical" alt="D1ther's GitHub streak" />
+</p>
+
+
 
