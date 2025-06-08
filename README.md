@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D1ther&show_icons=true&theme=dark" alt="My stats 📊" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D1ther&theme=вфкл" alt="D1ther's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D1ther&theme=dark" alt="D1ther's GitHub streak" />
 </p>
 
 
