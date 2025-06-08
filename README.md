@@ -28,6 +28,8 @@
 ![Github](https://img.shields.io/badge/github-bage?style=for-the-badge&logo=github&logoColor=black&logoSize=max&color=white&cacheSeconds=3600
 )
 
+<br><br>
+
 <h3 align="center">My statistics 📈</h3>
 
 <p align="center">
